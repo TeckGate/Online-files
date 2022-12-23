@@ -22,8 +22,8 @@ var langs = [
 		
 		
 		['France', ['fr-FR']],
-		['Arabic', ['ar-MA']]
-		]
+		['Arabic', ['ar-MA']],
+		
 	];
 	
 	for (var i = 0; i < langs.length; i++) {
