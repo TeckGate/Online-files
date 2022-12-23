@@ -27,7 +27,7 @@ var langs = [
 					['en-GB', 'United Kingdom'],
 					['en-US', 'United States'],
 		
-		['France', ['fr-FR', 'France'],
+		['France', ['fr-FR']],
 		['Arabic', ['ar-MA', 'Arabic]]
 		]
 	];
