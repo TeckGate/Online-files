@@ -22,7 +22,7 @@ var langs = [
 		
 		
 		['France', ['fr-FR']],
-		['Arabic', ['ar-MA', 'Arabic]]
+		['Arabic', ['ar-MA']]
 		]
 	];
 	
